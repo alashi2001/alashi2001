@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Hisham Abdullah Alakshmi 👋
+# Hi there, I'm Ahmed Hisham Abdullah Alashi 👋
 
 Welcome to my GitHub! I'm an international student at President University, exploring the exciting fields of **Big Data Analytics**, **Ubiquitous Computing**, **Machine Learning**, and **Business Intelligence**. With a passion for technology and a deep appreciation for art, I’m on a journey to combine data science with creative problem-solving.
 
